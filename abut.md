@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/TOXIC-DEVIL">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=👋+Hi+I'm+Sanith+sehansa..."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=👋+Hi+I'm+Sansith+sehansa..."
             alt="Typing SVG"
         />
     </a>
@@ -34,12 +34,16 @@
 
   </a>
 </p>
-  - 📫 How to reach me:
+
+
+![My card name](https://cardivo.vercel.app/api?name=TOXIC%20-%20DEVIL&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=___toxic____devil___&linkedin=___toxic____devil___&github=TOXIC-DEVIL&twitter=@TOXIC-DEVIL&pattern=leaf&colorPattern=%23eaeaea)
+
+- 📫 How to reach me:
 
   <a href="https://wa.me/message/3TVXCTZQV23LO1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
 
-
+  
 ----
