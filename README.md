@@ -39,10 +39,17 @@
 
 - 📫 How to reach me:
 
-  <a href="https://wa.me/message/3TVXCTZQV23LO1">
+     <a href="https://wa.me/message/3TVXCTZQV23LO1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
 
+
+
+
+  <a href="https://t.me/sansithsehansa">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
   
 ----
