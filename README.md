@@ -42,17 +42,12 @@
 #
 - 📫 How to reach me:
 
-  <a href="https://wa.me/2349053311892?text=Hi%20I%20Am%20From%20GitHub%20☺️">
+  <a href="https://wa.me/+943600809?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
 
-  <a href="https://instagram.com/_toxic._devil_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a
-
-  <a href="https://t.me/toxic_devil_official">
+  <a href="https://t.me/sansithsehansa">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
