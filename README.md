@@ -17,7 +17,7 @@
 ```
 - 🧑‍🏫Hi I’m Sansith sehansa From Sri lanka.
 
-- 📖 I’m currently learning html & css
+- 📖 I’m currently learning html,blender & css
 
 - 🕵️ I’m looking to collaborate with other content creators.
 
